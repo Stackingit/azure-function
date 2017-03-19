@@ -18,4 +18,4 @@ public static async Task<object> Run(HttpRequestMessage req, TraceWriter log)
 class Data
 {	
 	public string ping { get; set; }
-}s
+}
